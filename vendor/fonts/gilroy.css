@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Gilroy';
+	src: url('gilroy-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('gilroy-bold.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy-medium.woff2') format('woff2'), /* Super Modern Browsers */
+         url('gilroy-medium.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+	font-family: 'Gilroy';
+	src: url('gilroy-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		 url('gilroy-regular.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
