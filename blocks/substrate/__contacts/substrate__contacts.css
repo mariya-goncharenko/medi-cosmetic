@@ -1,0 +1,19 @@
+.substrate__contacts {
+  margin: 0;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: #00868a;
+  width: 200px;
+  border: none;
+  border-radius: 0;
+  color: #fff;
+}
+
+.substrate__contacts:hover {
+  color: #000;
+  background: none;
+  border: #00868a solid 2px;
+}

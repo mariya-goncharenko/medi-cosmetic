@@ -1,0 +1,14 @@
+.inform {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: space-between;
+  background-image: url(../../image/document.jpg);
+  bottom: 0;
+  right: 0;
+  opacity: 1;
+  background-position: right bottom;
+  background-size: 280px;
+  background-repeat: no-repeat;
+  opacity: 1;
+}

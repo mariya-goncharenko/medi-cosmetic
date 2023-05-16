@@ -1,0 +1,11 @@
+.news__card-left {
+  border: none;
+  border-radius: 0;
+  background: rgba(79, 191, 165, 1);
+}
+
+@media screen and (max-width: 991px) {
+  .news__card-left {
+    margin-bottom: 0;
+  }
+}

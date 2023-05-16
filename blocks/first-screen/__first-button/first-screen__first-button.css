@@ -1,0 +1,21 @@
+.first-screen__first-button {
+  margin-right: -15px;
+  color: black;
+  width: 175px;
+  padding: 9px 15px 10px;
+  border-radius: 0px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.first-screen__first-button:hover {
+  color: #fff;
+  background: #00868a;
+  width: 175px;
+  padding: 9px 15px 10px;
+  border-radius: 0px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}

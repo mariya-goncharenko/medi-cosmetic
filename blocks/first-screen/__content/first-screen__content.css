@@ -1,0 +1,6 @@
+.first-screen__content {
+    max-width: 1295px;
+    min-width: 200px;
+    margin-top: 30px;
+    overflow: hidden;
+  }

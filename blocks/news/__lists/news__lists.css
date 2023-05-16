@@ -1,0 +1,11 @@
+.news__lists {
+  padding: 0;
+  margin: 0 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .news__list {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+}

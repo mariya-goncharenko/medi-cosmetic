@@ -1,0 +1,21 @@
+.special__card-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    gap: 10px;
+    z-index: 1;
+    bottom: 5%;
+    right: 5%;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+  }
+  
+  .special__card-button:hover {
+    text-decoration: none;
+    text-decoration: underline 1px;
+    color: #fff;
+    opacity: 0.8;
+  }

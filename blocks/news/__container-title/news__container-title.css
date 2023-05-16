@@ -1,0 +1,14 @@
+.news__container-title {
+  margin: 0;
+  padding: 0;
+  height: 100px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+@media screen and (max-width: 768px) {
+  .news__container-title {
+    font-size: 16px;
+  }
+}

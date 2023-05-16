@@ -1,0 +1,6 @@
+.substrate__special {
+  position: absolute;
+  z-index: 2;
+  top: 5%;
+  left: 10%;
+}

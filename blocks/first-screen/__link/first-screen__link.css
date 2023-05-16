@@ -1,0 +1,15 @@
+.first-screen__link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+.first-screen__link:hover {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.first-screen__link:active {
+  text-decoration: underline 1px #fff;
+}

@@ -1,0 +1,13 @@
+.text-container__subtitle {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+  }
+  
+  @media screen and (max-width: 500px) {
+    .text-container__subtitle {
+      font-size: 12px;
+    }
+  }

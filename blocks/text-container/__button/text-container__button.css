@@ -1,0 +1,17 @@
+.text-container__button {
+  background: #00868a;
+  color: #fff;
+  padding: 15px 25px 14px;
+  border-radius: 0;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+
+.text-container__button:hover {
+  background: #fff;
+  color: #000;
+}

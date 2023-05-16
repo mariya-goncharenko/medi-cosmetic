@@ -1,0 +1,10 @@
+.card__content-title {
+  color: #fff;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 150%;
+  margin: 30px 0 25px;
+  padding: 0;
+}

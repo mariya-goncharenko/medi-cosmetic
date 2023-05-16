@@ -1,0 +1,23 @@
+.card__button {
+  margin: 0;
+  padding: 0 0 45px;
+  background-color: #00868a;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border: none;
+  width: 170px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card__button:hover {
+  text-decoration: none;
+  text-decoration: underline 1px;
+  color: #fff;
+  opacity: 0.8;
+}

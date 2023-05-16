@@ -1,0 +1,7 @@
+.inform-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 45px 0 0;
+}

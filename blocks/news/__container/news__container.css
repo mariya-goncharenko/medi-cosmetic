@@ -1,0 +1,21 @@
+.news__container {
+  margin: 0 -15px;
+  padding: 35px 40px;
+  color: #fff;
+}
+
+.news__container:hover {
+  background-color: #00868a;
+}
+
+@media screen and (max-width: 768px) {
+  .news__container {
+    padding: 25px 30px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .news__container {
+    padding: 20px 25px;
+  }
+}

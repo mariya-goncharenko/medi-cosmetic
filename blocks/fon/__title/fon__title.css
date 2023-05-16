@@ -1,0 +1,20 @@
+.fon__title {
+  margin: 0;
+  padding: 0;
+  color: #00868a;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 150%;
+}
+
+@media screen and (max-width: 768px) {
+  .fon__title {
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .fon__title {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,17 @@
+.news__card-right {
+  border: none;
+  border-radius: 0;
+  background: rgba(0, 134, 138, 0.1);
+}
+
+@media screen and (max-width: 991px) {
+  .news__card-right {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .news__card-right {
+    margin-bottom: 0;
+  }
+}

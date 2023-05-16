@@ -1,0 +1,35 @@
+.first-screen__button {
+  margin: 0;
+  padding: 24px 0;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 150%;
+  text-align: center;
+  background: #4fbfa5;
+  border: none;
+  border-radius: 0;
+}
+
+.first-screen__button:hover {
+  color: #000;
+  background: #fff;
+  border: #00868a solid 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .first-screen__button {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .first-screen__button {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .first-screen__button {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,14 @@
+.footer__nav-link {
+  margin: 20px 0 0;
+  padding: 0;
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.footer__nav-link:hover {
+  color: #00868a;
+  text-decoration: underline 1px;
+}

@@ -1,0 +1,40 @@
+.inform-list__nun {
+  margin: 0;
+  padding: 0 20px 0 0;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 150%;
+  opacity: 0.5;
+}
+
+.inform-list__nun:hover {
+  padding: 0 20px 0 0;
+  font-size: 100px;
+  color: #00868a;
+  opacity: 1;
+}
+
+.inform-list__nun:hover~.inform-list__text {
+  width: 340px;
+  font-size: 28px;
+  opacity: 1;
+}
+
+.inform-list__nun:hover~.inform-list {
+  margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .inform-list__nun:hover {
+    padding: 0 20px 0 0;
+    font-size: 50px;
+    color: #00868a;
+    opacity: 1;
+  }
+
+  .inform-list__nun:hover~.inform-list__text {
+    width: 200px;
+    font-size: 20px;
+    opacity: 1;
+  }
+}
